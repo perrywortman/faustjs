@@ -1,5 +1,11 @@
 # @faustwp/blocks
 
+## 1.2.0
+
+### Minor Changes
+
+- 19c7395: Added CoreHeading block implementation.
+
 ## 1.1.0
 
 ### Minor Changes
